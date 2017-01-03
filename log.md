@@ -1,30 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 3, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Created AWS server, bought a SSL certificate, and created a basic fb messenger logging server with nodejs.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: When showcasing work on [instagram](https://www.instagram.com/p/BOzTY6ohjmR/) hide important details.
+#### Guides
+* Guides to create SSL
+  1. [Add SSL to EC2 Instance](http://iwearshorts.com/blog/add-ssl-to-ec2-instance/)
+  2. [Tutorial: Configure Apache Web Server on Amazon Linux to use SSL/TLS - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/SSL-on-an-instance.html)
+* Guides for moving MongoDB to EBS
+  1. [Running MySQL on Amazon EC2 with EBS (Elastic Block Store)](https://aws.amazon.com/articles/1663)
+  2. [Install MongoDB on Amazon EC2](https://mongodb-documentation.readthedocs.io/en/latest/ecosystem/tutorial/install-mongodb-on-amazon-ec2.html)
+* Guides to create basic fb messenger bot
+  1. [Quick Start - Messenger Platform - Documentation - Facebook for Developers](https://developers.facebook.com/docs/messenger-platform/guides/quick-start)
+  2. [Pair Programming a Facebook Messenger Bot - FunFunFunction #28](https://www.youtube.com/watch?v=zFO1cRr5-qY)
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Create facebook messenging logger](https://github.com/michaelsunb/seek-fb/commit/9d646ef9708ef182001bbcff2412f7acb558bed8)
