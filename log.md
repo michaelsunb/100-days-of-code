@@ -5,7 +5,6 @@
 **Today's Progress**: Created AWS server, bought a SSL certificate, and created a basic fb messenger logging server with nodejs.
 
 **Thoughts**: When showcasing work on [instagram](https://www.instagram.com/p/BOzTY6ohjmR/) hide important details.
-#### Guides
 * Guides to create SSL
   1. [Add SSL to EC2 Instance](http://iwearshorts.com/blog/add-ssl-to-ec2-instance/)
   2. [Tutorial: Configure Apache Web Server on Amazon Linux to use SSL/TLS - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/SSL-on-an-instance.html)
@@ -17,3 +16,11 @@
   2. [Pair Programming a Facebook Messenger Bot - FunFunFunction #28](https://www.youtube.com/watch?v=zFO1cRr5-qY)
 
 **Link to work:** [Create facebook messenging logger](https://github.com/michaelsunb/seek-fb/commit/9d646ef9708ef182001bbcff2412f7acb558bed8)
+
+### Day 2: January 4, 2017
+
+**Today's Progress**: Moved port to config, fixed captilisation and made gitignore ignore all files in config/ except for config/default.json.
+
+**Thoughts**: Tested out Facebook messenger [Quick Replies](https://developers.facebook.com/docs/messenger-platform/send-api-reference/quick-replies). Now looking at [List Template](https://developers.facebook.com/docs/messenger-platform/send-api-reference/list-template)
+
+**Link(s) to work**: [Move port from index.js to config files](https://github.com/michaelsunb/seek-fb/commit/ed3b223c14769d0326d2dc0cc2c33a28e1f0a7e3)
