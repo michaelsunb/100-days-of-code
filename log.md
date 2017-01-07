@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 5: January 7, 2017
+
+**Today's Progress**: Change Model and controller to only insert a Facebook user ID once.
+
+**Thoughts**: Felt extremely tired. Found the courage to continue on the 100 days code streak so I did what I could do. For tomorrow, I need to develop a Facebook OAuth with [passportjs](http://passportjs.org/docs/facebook) and if I get that done, I will develop a way to send [list templates](https://developers.facebook.com/docs/messenger-platform/send-api-reference/list-template) to users.
+
+**Link(s) to work**: [Message inserts FB user id if does not exist in db](https://github.com/michaelsunb/seek-fb/commit/ef9ffc61c78e570bf06fbc10649a7f1bd583914a), [PassportJS with Facebook](http://passportjs.org/docs/facebook)
+
+
 ### Day 4: January 6, 2017
 
 **Today's Progress**: Reverted repo name and changed index.js to server.js. Looked into sending list in Facebook messenger. Also [rules.md](https://github.com/michaelsunb/100-days-of-code/blob/master/rules.md) has been corrected.
