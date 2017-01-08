@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 6: January 8, 2017
+
+**Today's Progress**: Move model functionality to models
+
+**Thoughts**: Make controllers as thin as possible. Also in theory if we want to just database, all we'd have to do is change the functions in app/models/.
+
+**Link(s) to work**: [Move model functionality to models](https://github.com/michaelsunb/seek-fb/commit/cfebceae6e93d39303e53053fa6ebfbee1df9796)
+
+
 ### Day 5: January 7, 2017
 
 **Today's Progress**: Change Model and controller to only insert a Facebook user ID once.
