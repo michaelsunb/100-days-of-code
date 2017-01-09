@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 10, 2017
+
+**Today's Progress**: Created development server with VirtualBox
+
+**Thoughts**: Didn't do any coding but I finally created my own development server using VirtualBox. Yay :)
+
+**Link(s) to work**: [Set virtualbox network for Ubuntu 16.04 client](https://superuser.com/questions/1080675/set-virtualbox-network-for-ubuntu-16-04-client), [Ubuntu Server 16.04 LTS Install & VirtualBox Guest Additions](https://www.youtube.com/watch?v=9kiY_uyWQhM), [How to Share Folders in Ubuntu Guest with Windows 7 Host using VirtualBox](https://www.youtube.com/watch?v=I5cV0V7vLJw), [Installing VirtualBox Guest Additions on Ubuntu Server](http://en.ig.ma/notebook/2012/virtualbox-guest-additions-on-ubuntu-server), [How to install VirtualBox Guest Additions for Ubuntu 16.04](https://askubuntu.com/questions/792832/how-to-install-virtualbox-guest-additions-for-ubuntu-16-04)
+
+
 ### Day 7: January 9, 2017
 
 **Today's Progress**: Created tests for webhook route
