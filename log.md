@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 9, 2017
+
+**Today's Progress**: Created tests for webhook route
+
+**Thoughts**: Make tests because I want to stop relying on testing in the frontend and testing with Facebook.
+
+**Link(s) to work**: [Introduce webhook tests](https://github.com/michaelsunb/seek-fb/commit/0ed1d81904dcdab048d7d8535fa376793a5dcda7), [Code clean up & add test for post to /webhook](https://github.com/michaelsunb/seek-fb/commit/8f16631793954822e592de62683912cc22906449), [Test a Node RESTful API with Mocha and Chai](https://scotch.io/tutorials/test-a-node-restful-api-with-mocha-and-chai)
+
+
 ### Day 6: January 8, 2017
 
 **Today's Progress**: Move model functionality to models
