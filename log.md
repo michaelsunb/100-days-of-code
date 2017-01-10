@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 9: January 11, 2017
+
+**Today's Progress**: Refactored code and created helpers
+
+**Thoughts**: Going not as fast as I would like it to be. Looked into messaging backt to the user.
+
+**Link(s) to work**: [Refactor code and create helpers](https://github.com/michaelsunb/seek-fb/commit/c05162d6ffc29942edbb5e7bce2e3cae9211226f)
+
+
 ### Day 8: January 10, 2017
 
 **Today's Progress**: Created development server with VirtualBox
