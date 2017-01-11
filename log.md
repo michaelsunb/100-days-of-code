@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 10: January 12, 2017
+
+**Today's Progress**: Can now message a user
+
+**Thoughts**: I can now message myself but haven't pushed that part of the code because it contains my Facebook user ID. Plan to use a different server with PHP5.4 to grab the information needed to send to a Facebook user
+
+**Link(s) to work**: [Start creating message model](https://github.com/michaelsunb/seek-fb/commit/d8293ffe7831a8a71b1b40d934168253546d425a), [messenger-bot-tutorial](https://github.com/jw84/messenger-bot-tutorial/blob/master/index.js#L57)
+
+
 ### Day 9: January 11, 2017
 
 **Today's Progress**: Refactored code and created helpers
