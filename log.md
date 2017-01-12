@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 11: January 13, 2017
+
+**Today's Progress**: Looked into GunDb
+
+**Thoughts**: GunDB is interesting. Maybe I'll look into implementing it somehow.
+
+**Link(s) to work**: [GunDB](http://gun.js.org/enterprise/)
+
+
+
 ### Day 10: January 12, 2017
 
 **Today's Progress**: Can now message a user
