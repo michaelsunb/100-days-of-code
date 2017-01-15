@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 13: January 15, 2017
+
+**Today's Progress**: Started working on Anki flash cards.
+
+**Thoughts**: I don't know if it should be cosidered as coding.
+
+**Link(s) to work**: [Anki Tutorial](https://www.youtube.com/watch?v=q08x4t7zhcw), [Create Anki Cards Quickly using CSV](https://www.youtube.com/watch?v=BwGNP3GXmxg)
+
+
 ### Day 12: January 14, 2017
 
 **Today's Progress**: Took a break from my personal project to work on some coding questions given to me.
