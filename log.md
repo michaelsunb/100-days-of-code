@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 12: January 14, 2017
+
+**Today's Progress**: Took a break from my personal project to work on some coding questions given to me.
+
+**Thoughts**: I recently watch a YouTube video about extracting and refactoring code. But the presentator argued readability over refactored code and the stages of programmers. I was torn between "easy to read" code and refactored code. I had a peace of code with a lot of "if" statements and it could be refactored into a hash map and made polymorphic. But for the sake of the readability I choose readable code because the refactored code would be a bit hard to read if fresh eyes where to look at it.
+
+**Link(s) to work**: [Straight-line code over functions - FunFunFunction #3](https://www.youtube.com/watch?v=Bks59AaHe1c), [The growth stages of a programmer - FunFunFunction #6](https://www.youtube.com/watch?v=2qYll837a_0)
+
+
 ### Day 11: January 13, 2017
 
 **Today's Progress**: Looked into GunDb
@@ -7,7 +16,6 @@
 **Thoughts**: GunDB is interesting. Maybe I'll look into implementing it somehow.
 
 **Link(s) to work**: [GunDB](http://gun.js.org/enterprise/)
-
 
 
 ### Day 10: January 12, 2017
