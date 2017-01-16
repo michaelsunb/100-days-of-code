@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 14: January 16, 2017
+
+**Today's Progress**: Installed express handlebars and GunDB.
+
+**Thoughts**: I might use GunDB to help find jobs.
+
+**Link(s) to work**: (Write Templates Like A Node.js Pro: Handlebars Tutorial)[https://webapplog.com/handlebars/], [gun/examples at master · amark/gun](https://github.com/amark/gun/tree/master/examples)
+
+
 ### Day 13: January 15, 2017
 
 **Today's Progress**: Started working on Anki flash cards.
