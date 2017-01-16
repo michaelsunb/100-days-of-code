@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 15: January 17, 2017
+
+**Today's Progress**: Extracted express to app.js. And got GunDB to work
+
+**Thoughts**: So I'll have an admin panel that will to help gather data with GunDB, while also having another site to do the same thing.
+
+**Link(s) to work**: [Extract express to app.js](https://github.com/michaelsunb/seek-fb/commit/42f0ab7c1d3ed1a12a653ceb416d367bb55c7d97)
+
+
 ### Day 14: January 16, 2017
 
 **Today's Progress**: Installed express handlebars and GunDB.
