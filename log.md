@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 16: January 24, 2017
+
+**Today's Progress**: Helped a mate with setting up SSL certificates
+
+**Thoughts**: I really should focus on one thing. Developing good habits.
+
+**Link(s) to work**: [The Node.js Engineer's Guide To Stripe](http://www.scotthasbrouck.com/books/)
+
+
 ### Day 15: January 17, 2017
 
 **Today's Progress**: Extracted express to app.js. And got GunDB to work
