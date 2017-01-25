@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 16: January 24, 2017
+### Day 2: January 25, 2017
+
+**Today's Progress**: Started using bower which led me into gulp
+
+**Thoughts**: Thinking of automating javascript files to public directory
+
+**Link(s) to work**: [Bower](https://bower.io/), [Concatenate & Minify Javascript with Gulp, Improve Site Performance](http://codehangar.io/concatenate-and-minify-javascript-with-gulp/)
+
+
+### ~~Day 16:~~ Day 1: January 24, 2017
 
 **Today's Progress**: Helped a mate with setting up SSL certificates
 
@@ -24,7 +33,7 @@
 
 **Thoughts**: I might use GunDB to help find jobs.
 
-**Link(s) to work**: (Write Templates Like A Node.js Pro: Handlebars Tutorial)[https://webapplog.com/handlebars/], [gun/examples at master · amark/gun](https://github.com/amark/gun/tree/master/examples)
+**Link(s) to work**: [Write Templates Like A Node.js Pro: Handlebars Tutorial](https://webapplog.com/handlebars/), [gun/examples at master · amark/gun](https://github.com/amark/gun/tree/master/examples)
 
 
 ### Day 13: January 15, 2017
