@@ -6,13 +6,13 @@ The log of my #100DaysOfCode challenge. Started on [September 28, Saturday, 2022
 
 ### R2D1 September 28, 2022
 - [Leetcode 19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-- [Leetcode Answer](Leetcode/19%20Remove%20Nth%20Node%20From%20End%20of%20List.java)
+- [Leetcode Answer](Leetcode/19_Remove_Nth_Node_From_End_of_List.java)
 
 **Thoughts** Restart 100 days of code. Failed the first round because I ran into life problems which were out of my control. Today's LeetCode problem was interesting. I used the fast - slow point technique as explained in [https://iq.opengenus.org/fast-and-slow-pointer-technique/](https://iq.opengenus.org/fast-and-slow-pointer-technique/)
 
 ### R2D2 September 29, 2022
 - [Leetcode 658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
-- [Leetcode Answer](Leetcode/658%20Find%20K%20Closest%20Elements.py)
+- [Leetcode Answer](Leetcode/658_Find_K_Closest_Elements.py)
 
 **Thoughts** Tried answering using the Python language. Python is interesting as we don't need to worry about semi-colons and curley brackets. A change in mindset because need to only care about indentations.
 
