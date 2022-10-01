@@ -18,7 +18,13 @@ The log of my #100DaysOfCode challenge. Started on [September 28, Saturday, 2022
 
 ### R2D3 September 30, 2022
 - [Project Euler 5. Smallest multiple](https://projecteuler.net/problem=5)
-- [Project Euler Answer](Euler/5SmallestMultiple.js)
+- [Project Euler Answer](Euler/5_Smallest_Multiple.js)
 
 **Thoughts** Did a project Euler question using javascript and node. Answer was 232792560.
+
+### R2D4 October 1, 2022
+- [Leetcode 91. Decode Ways](https://leetcode.com/problems/decode-ways/)
+- [Leetcode Answer](Leetcode/91_Decode_Ways.js)
+
+**Thoughts** Did a Leetcode problem in Javascript again. Also from here on, I think its best to replace the spaces in filename with underscores. Also decided to remove Hackerrank, since it's basically the same as Project Euler.
 
