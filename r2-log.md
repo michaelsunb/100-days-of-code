@@ -28,3 +28,8 @@ The log of my #100DaysOfCode challenge. Started on [September 28, Saturday, 2022
 
 **Thoughts** Did a Leetcode problem in Javascript again. Also from here on, I think its best to replace the spaces in filename with underscores. Also decided to remove Hackerrank, since it's basically the same as Project Euler.
 
+### R2D5 October 2, 2022
+- [Leetcode 1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)
+- [Leetcode Answer](Leetcode/1155_Number_of_Dice_Rolls_With_Target_Sum.py)
+
+**Thoughts** Leetcode problem again using Python. Doing for the Daily streak. On a 5 day streak now :)
