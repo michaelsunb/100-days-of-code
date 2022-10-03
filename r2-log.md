@@ -37,5 +37,7 @@ The log of my #100DaysOfCode challenge. Started on [September 28, Saturday, 2022
 ### R2D6 October 3, 2022
 - [Leetcode 1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)
 - [Leetcode Answer](Leetcode/1578_Minimum_Time_to_Make_Rope_Colorful.js)
+- [Project Euler 6. Sum square difference](https://projecteuler.net/problem=6)
+- [Project Euler Answer](Euler/6_Sum_square_difference.php)
 
-**Thoughts** Leetcode problem using Javascript. Simple for loop that checks if current index is not the same as previous. If so, then reset the count.
+**Thoughts** Leetcode problem using Javascript. Simple for loop that checks if current index is not the same as previous. If so, then reset the count. Also did a Project Euler question late in the evening. This Project Euler question was interesting and a bit easy.
