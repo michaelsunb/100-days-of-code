@@ -33,3 +33,9 @@ The log of my #100DaysOfCode challenge. Started on [September 28, Saturday, 2022
 - [Leetcode Answer](Leetcode/1155_Number_of_Dice_Rolls_With_Target_Sum.py)
 
 **Thoughts** Leetcode problem again using Python. Doing for the Daily streak. On a 5 day streak now :)
+
+### R2D6 October 3, 2022
+- [Leetcode 1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)
+- [Leetcode Answer](Leetcode/1578_Minimum_Time_to_Make_Rope_Colorful.js)
+
+**Thoughts** Leetcode problem using Javascript. Simple for loop that checks if current index is not the same as previous. If so, then reset the count.
