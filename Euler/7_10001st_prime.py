@@ -1,30 +1,31 @@
 class Solution:
     def nthPrimeNumber(self, n: int) -> int:
-        num = 0
-        count = 0
+        primes = [2, 3]
+        if n < 3:
+            return primes[n-1]
+        count = 3
+        num = 3
+        isPrime = True
 
-        if n <= 3:
-            return n
-        if n > 3:
-            count = 3
-            num = 3
-
-        nonprime = False
-        while count <= n+1:
+        while len(primes) < n:
             # There are no even numbers that is prime after 2
             num += 2
-            # Iterate from 2 to n / 2
-            for i in range(2, int(num/2)+1):
-                # If num is divisible by any number between
-                # 2 and n / 2, it is not prime
-                if (num % i) == 0:
-                    nonprime = True
+            # Since every even number is skipped
+            # We can iterate from mapped primes
+            # to check if they are prime or composite
+            for i in primes:
+                if i >= int(num/2)+1:
                     break
-            if nonprime != 1:
-                count += 1
-            if count == n+1:
+                # If num is divisible by any number between
+                # 2 and num / 2, it is not prime
+                if (num % i) == 0:
+                    isPrime = False
+                    break
+            if isPrime:
+                primes.append(num)
+            if len(primes) == n:
                 return num
-            nonprime = False
+            isPrime = True # Reset to True
         return 0
 
 
