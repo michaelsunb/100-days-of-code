@@ -41,3 +41,11 @@ The log of my #100DaysOfCode challenge. Started on [September 28, Saturday, 2022
 - [Project Euler Answer](Euler/6_Sum_square_difference.php)
 
 **Thoughts** Leetcode problem using Javascript. Simple for loop that checks if current index is not the same as previous. If so, then reset the count. Also did a Project Euler question late in the evening. This Project Euler question was interesting and a bit easy.
+
+### R2D7 October 4, 2022
+- [Leetcode 112. Path Sum](https://leetcode.com/problems/path-sum/)
+- [Leetcode Answer](Leetcode/112_Path_Sum.php)
+- [Project Euler 7. 10001st prime](https://projecteuler.net/problem=7)
+- [Project Euler Answer](Euler/7_10001st_prime.py)
+
+**Thoughts** Leetcode problem using PHP and Project Euler done in Python. Both easy  :)
