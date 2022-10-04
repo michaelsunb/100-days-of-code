@@ -2,22 +2,29 @@ class Solution:
     def nthPrimeNumber(self, n: int) -> int:
         num = 0
         count = 0
-        nonprime = 0
+
+        if n <= 3:
+            return n
+        if n > 3:
+            count = 3
+            num = 3
+
+        nonprime = False
         while count <= n+1:
-            num += 1
+            # There are no even numbers that is prime after 2
+            num += 2
             # Iterate from 2 to n / 2
             for i in range(2, int(num/2)+1):
                 # If num is divisible by any number between
                 # 2 and n / 2, it is not prime
                 if (num % i) == 0:
-                    nonprime = 1
+                    nonprime = True
                     break
-            if nonprime == 1:
-                nonprime = 0
-            else:
+            if nonprime != 1:
                 count += 1
             if count == n+1:
                 return num
+            nonprime = False
         return 0
 
 
