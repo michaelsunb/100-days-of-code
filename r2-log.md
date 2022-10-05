@@ -51,7 +51,7 @@ The log of my #100DaysOfCode challenge. Started on [September 28, Saturday, 2022
 **Thoughts** Leetcode problem using PHP and Project Euler done in Python. Both easy  :)
 
 ### R2D8 October 6, 2022
-- [Leetcode 112. Path Sum](https://leetcode.com/problems/add-one-row-to-tree/)
+- [Leetcode 623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)
 - [Leetcode Answer](Leetcode/623_Add_One_Row_to_Tree.cs)
 
 **Thoughts** Leetcode problem done late in the middle of the night. Now 12:23am and just finished. So technically did not miss a day. Coded in C# :)
