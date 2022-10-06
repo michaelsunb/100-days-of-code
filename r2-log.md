@@ -55,3 +55,11 @@ The log of my #100DaysOfCode challenge. Started on [September 28, Saturday, 2022
 - [Leetcode Answer](Leetcode/623_Add_One_Row_to_Tree.cs)
 
 **Thoughts** Leetcode problem done late in the middle of the night. Now 12:23am and just finished. So technically did not miss a day. Coded in C# :)
+
+### R2D9 October 6, 2022
+- [Leetcode 981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
+- [Leetcode Answer](Leetcode/981_Time_Based_Key-Value_Store.php)
+- [Project Euler 8. 10001st prime](https://projecteuler.net/problem=8)
+- [Project Euler Answer](Euler/8_Largest_product_in_a_series.cs)
+
+**Thoughts** Today's Leetcode problem was interesting. Nobody in the discussions has done it in PHP, thus I took on the challenge to write it in PHP :) Also did Project Euler question. At first I didn't understand the question, but once I dug through it, I understood and was able to answer it.
