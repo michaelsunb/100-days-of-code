@@ -56,10 +56,16 @@ The log of my #100DaysOfCode challenge. Started on [September 28, Saturday, 2022
 
 **Thoughts** Leetcode problem done late in the middle of the night. Now 12:23am and just finished. So technically did not miss a day. Coded in C# :)
 
-### R2D9 October 6, 2022
+### R2D9 October 7, 2022
 - [Leetcode 981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
 - [Leetcode Answer](Leetcode/981_Time_Based_Key-Value_Store.php)
 - [Project Euler 8. 10001st prime](https://projecteuler.net/problem=8)
 - [Project Euler Answer](Euler/8_Largest_product_in_a_series.cs)
 
 **Thoughts** Today's Leetcode problem was interesting. Nobody in the discussions has done it in PHP, thus I took on the challenge to write it in PHP :) Also did Project Euler question. At first I didn't understand the question, but once I dug through it, I understood and was able to answer it.
+
+### R2D10 October 8, 2022
+- [Project Euler 9. Special Pythagorean triplet](https://projecteuler.net/problem=9)
+- [Project Euler Answer](Euler/8_Largest_product_in_a_series.cs)
+
+**Thoughts** Just one Project Euler done today. Done in Java. I like doing Project Euler questions over Leetcode because I find that Euler questions are not that hard but is interesting at the same time.
