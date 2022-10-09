@@ -69,3 +69,9 @@ The log of my #100DaysOfCode challenge. Started on [September 28, Saturday, 2022
 - [Project Euler Answer](Euler/8_Largest_product_in_a_series.cs)
 
 **Thoughts** Just one Project Euler done today. Done in Java. I like doing Project Euler questions over Leetcode because I find that Euler questions are not that hard but is interesting at the same time.
+
+### R2D11 October 9, 2022
+- [Leetcode 16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+- [Leetcode Answer](Leetcode/16_3Sum_Closest.py)
+
+**Thoughts** Day 11 done in Leetcode. Tired but still do it for the challenge
