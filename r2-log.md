@@ -75,3 +75,9 @@ The log of my #100DaysOfCode challenge. Started on [September 28, Saturday, 2022
 - [Leetcode Answer](Leetcode/16_3Sum_Closest.py)
 
 **Thoughts** Day 11 done in Leetcode. Tired but still do it for the challenge
+
+### R2D12 October 10, 2022
+- [Project Euler 10. Summation of primes](https://projecteuler.net/problem=10)
+- [Project Euler Answer](Euler/10_Summation_of_primes.js)
+
+**Thoughts** Day 12 Project Euler. At first tried to do it in python since I already have a Prime function from problem 7 but for primes under 2 million took too long. So ended up doing in Javascript. 
