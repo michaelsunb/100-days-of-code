@@ -81,3 +81,9 @@ The log of my #100DaysOfCode challenge. Started on [September 28, Saturday, 2022
 - [Project Euler Answer](Euler/10_Summation_of_primes.js)
 
 **Thoughts** Day 12 Project Euler. At first tried to do it in python since I already have a Prime function from problem 7 but for primes under 2 million took too long. So ended up doing in Javascript. 
+
+### R2D13 October 12, 2022
+- [Leetcode 334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
+- [Leetcode Answer](Leetcode/334_Increasing_Triplet_Subsequence.js)
+
+**Thoughts** Almost missed today due to other commitments. Thought I understood the problem until I ran into multiple test cases that failed. In the end, I eventually got the answer.
