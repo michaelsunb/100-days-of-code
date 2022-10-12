@@ -87,3 +87,9 @@ The log of my #100DaysOfCode challenge. Started on [September 28, Saturday, 2022
 - [Leetcode Answer](Leetcode/334_Increasing_Triplet_Subsequence.js)
 
 **Thoughts** Almost missed today due to other commitments. Thought I understood the problem until I ran into multiple test cases that failed. In the end, I eventually got the answer.
+
+### R2D14 October 12, 2022
+- [Leetcode 976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
+- [Leetcode Answer](Leetcode/976_Largest_Perimeter_Triangle.php)
+
+**Thoughts** Easy question if you know about triangles. A+B>C
