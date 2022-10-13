@@ -93,3 +93,9 @@ The log of my #100DaysOfCode challenge. Started on [September 28, Saturday, 2022
 - [Leetcode Answer](Leetcode/976_Largest_Perimeter_Triangle.php)
 
 **Thoughts** Easy question if you know about triangles. A+B>C
+
+### R2D15 October 13, 2022
+- [Project Euler 10. Summation of primes](https://projecteuler.net/problem=11)
+- [Project Euler Answer](Euler/11_Largest_product_in_a_grid.php)
+
+**Thoughts** Day 15 was a difficult one. 
