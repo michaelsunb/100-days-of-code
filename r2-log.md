@@ -99,3 +99,7 @@ The log of my #100DaysOfCode challenge. Started on [September 28, Saturday, 2022
 - [Project Euler Answer](Euler/11_Largest_product_in_a_grid.php)
 
 **Thoughts** Day 15 was a difficult one. 
+
+### R2D15 October 14, 2022
+
+**Thoughts** Day 15 was a difficult one. 
