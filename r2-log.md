@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 2 - [Michaelsun Baluyos](https://www.MichaelBalyuos.com)
+# #100DaysOfCode Log - Round 2 - [Michaelsun Baluyos](https://www.MichaelBaluyos.com)
 
 The log of my #100DaysOfCode challenge. Started on [September 28, Saturday, 2022].
 
